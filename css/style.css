@@ -1,0 +1,39 @@
+.heading {
+  font-size: 70px;
+  color: #6d656c
+  }
+
+.main {
+  background: url('http://vectorpage.com/uploads/2016/07/Working-Together-Illustration-vector365611103.jpg');
+  height: 100vh;
+}
+
+.centered {
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+  flex-direction:column;
+}
+.about-heading{
+  font-weight: bold;
+}
+.about {
+  background:#f7e288;
+    height:100vh;
+}
+.strong-sides {
+  height: 50vh;
+  padding:45px;
+  }
+
+.pics{
+  height:70vh;
+  
+}
+
+
+.contacts{
+  height: 100vh;
+  background:#88e0f7
+}
